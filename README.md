@@ -12,3 +12,6 @@ Here are some preview images:
 ![image](https://user-images.githubusercontent.com/103428174/227199776-b7e1deaa-c3ec-431b-ab8c-a648873c8907.png)
 
 ![image](https://user-images.githubusercontent.com/103428174/227199803-e3b010ca-366a-486a-9cbb-a27d66e08f74.png)
+
+update: 
+added next and previous button to change between pages and artist page.
