@@ -1,7 +1,7 @@
 # Web-Music-Player-UI
 UI design of web music player.
 
-[Web music Player figma link](https://www.figma.com/file/OUnYxi9sIRpzZ3sqhmudqv/Music-player?t=oPv2rzLlmNlCX2aN-6)
+[Web music Player figma link](https://www.figma.com/file/S3lo7xe7fRbI6fLa5BliZC/Music-player?node-id=0%3A1&t=amnyCMdZ8LyqTpAX-1)
 
 Here are some preview images:
 
